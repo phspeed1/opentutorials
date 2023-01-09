@@ -10,7 +10,7 @@ public class test1{
         System.out.println("버전6.gejava-gram");
         System.out.println("버전6.1.gejava-mini");
         System.out.println("버전7.충돌gejava-gram-mini");
-
+        System.out.println("버전8");
     }
     // comment 010
     // 일상적 추가
