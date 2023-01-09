@@ -8,6 +8,7 @@ public class test1{
         System.out.println("버전4");
         System.out.println("버전5.gejava-mini");
         System.out.println("버전6.gejava-gram");
+        System.out.println("버전6.1.gejava-mini");
 
     }
     // comment 010
