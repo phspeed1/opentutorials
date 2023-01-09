@@ -6,6 +6,7 @@ public class test1{
         System.out.println("실험적-추가2");
         System.out.println("버전3");
         System.out.println("버전4");
+        System.out.println("버전5.gejava-mini");
 
     }
     // comment 010
