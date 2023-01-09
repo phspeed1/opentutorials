@@ -4,6 +4,7 @@ public class test1{
         String str = "";
         System.out.println("일상적인-수정");
         System.out.println("일상적인-추가");
-        System.out.println("test1");
+        System.out.println("실험적인-수정");
+        System.out.println("실험적인-추가");
     }
 }
