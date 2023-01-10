@@ -13,6 +13,7 @@ public class test1{
         System.out.println("버전7.충돌gejava-gram-mini");
         System.out.println("버전8");
         System.out.println("버전9-긴급");
+        System.out.println("스테이시-작업중");
     }
     // comment 010
     // 일상적 추가
